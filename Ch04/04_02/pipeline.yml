@@ -1,5 +1,4 @@
-name: Pipeline
-
+name: CI Pipeline
 on: [push]
 env:
   APPLICATION_NAME: app2
